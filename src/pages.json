@@ -6,18 +6,11 @@
 				"navigationStyle": "custom"
 			},
 			"disableScroll": true
-		},
-		{
-			"path": "pages/detail/detail",
-			"style": {
-				"navigationStyle": "custom"
-			},
-			"disableScroll": true
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "POKEMMO攻城狮",
+		"navigationBarTitleText": "首页",
 		"navigationBarBackgroundColor": "#DEF7F8",
 		"backgroundColor": "#F8F8F8",
 		"usingComponents": {
