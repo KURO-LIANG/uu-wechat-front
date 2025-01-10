@@ -2,7 +2,7 @@
 import {ref, reactive, watch} from "vue";
 import UiSkeleton from "@/components/ui-skeleton/ui-skeleton.vue";
 import {onLoad, onShow} from "@dcloudio/uni-app";
-import {reqCollectPokemon, reqList, reqPokemonList} from "@/apis/api-your-business";
+import {reqList} from "@/apis/api-your-business";
 import msg from "@/utils/msg";
 
 let visible = ref(false)
